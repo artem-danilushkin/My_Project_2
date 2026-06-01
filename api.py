@@ -1,8 +1,5 @@
 """
 REST API (FastAPI) для распознавания цветков на изображениях.
-
-Запуск:
-    uvicorn api:app --host 0.0.0.0 --port 8000 --reload
 """
 
 from __future__ import annotations
